@@ -13,7 +13,7 @@ It is extremely simple. **Just run the `main.m` file.**
 ## 📂 File Structure
 
 - `main.m`: The main entry point. **Run this file.**
-- `*.m` (other 5 files): Helper functions and sub-routines automatically called by the main script.
+- `*.m` (other 6 files): Helper functions and sub-routines automatically called by the main script.
 
 ## 💻 Requirements
 
